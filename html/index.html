@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Will &amp; Jess</title>
+
+        <!-- <meta name="viewport" content="width=device-width,initial-scale=1" /> -->
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=Ropa+Sans:ital@0;1&display=swap" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/2.1.0/normalize.min.css" integrity="sha512-cU88PqnGpxeOgXHhn50Rd0PwWD+0WRogT6qTCRuR7zx2WNUNiwKVXJ64Dwy1Pt/32sBNsBDnGsU2gmWZKIUOOQ==" crossorigin="anonymous" />
+        <link rel="stylesheet" href="/css/style.css" />
+        <link rel="stylesheet" href="/css/token-input.css" />
+        <link rel="stylesheet" href="/css/respond/style.css" />
+        <link rel="stylesheet" href="/css/twitter/style.css" />
+
+        <link rel="icon" type="image/png" href="/images/wandj.png" />
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.0/jquery.min.js" integrity="sha512-synHs+rLg2WDVE9U0oHVJURDCiqft60GcWOW7tXySy8oIr0Hjl3K9gv7Bq/gSj4NDVpc5vmsNkMGGJ6t2VpUMA==" crossorigin="anonymous" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-one-page-nav/2.2.0/jquery.nav.min.js" integrity="sha512-RFdZFS9lRX5KYuxEoblJ5QpYcDfGPOvfZ1WjpwfFWeycDWH0a2gNSyjk8YSHunE3YrFXirvL24OQgy2L3Hpg1g==" crossorigin="anonymous" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.3/jquery.scrollTo.min.js" integrity="sha512-lpEcU+gPFx3rlzXggcoBh+lpcbcQRG1GHEwRXjadCsGC386lxzonIoHFkoOFETeUzeW5VyyDP2MibJzTpTpSjg==" crossorigin="anonymous" defer></script>
+        <script src="/js/script.js" defer></script>
+
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.caroufredsel/6.2.1/jquery.carouFredSel.packed.js" integrity="sha512-5Thlno/Mv5W8d5z7eEuOahEZ3nXZ0uAuOgf8m7p7+/9Ltkzt9sn9z6sR87m/9bqW9vqpywUq65YeNW0MuzW9Bw==" crossorigin="anonymous" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-tokeninput/1.6.0/jquery.tokeninput.min.js" integrity="sha512-JzX4UtMH7pknjlPVL/V0i17peCHUbWrDWqSEX+wHVCoUv+QYP3AwNDINh2xLYXZPNJ8Jfrv8/OWzkz+iFw9azQ==" crossorigin="anonymous" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.transit/0.9.9/jquery.transit.min.js" integrity="sha512-86S4ubwYNOdGr0naJYCq3a+1Y2ISNqqQQ25/UAG69Q597sDTKxWPebQULAiRYgdGr0jqSaN4NphxEValDhv6vg==" crossorigin="anonymous" defer></script>
+        <script src="/js/respond/script.js" defer></script>
+
+        <script src="/js/twitter/script.js" defer></script>
+    </head>
+    <body id="home">
+          <header>
+            <div class="header-wrapper group">
+              <div id="logo">
+                <a href="#home">
+                    <img src="/images/wandj.png" class="us" alt="Will & Jess" />
+                </a>
+              </div>
+              <div id="navigation">
+                <nav>
+                    <ul>
+                        <li><a href="#rsvp">RSVP</a></li>
+                        <li><a href="#gentlemen">Gentleman</a></li>
+                        <li><a href="#ladies">Ladies</a></li>
+                        <li><a href="#registry">Registry</a></li>
+                        <li><a href="#travel">Travel</a></li>
+                    </ul>
+                </nav>
+              </div>
+            </div>
+          </header>
+        {% block body %}
+        
+          <div id="page-wrapper">
+          
+            <div id="page">
+              {% block page %}
+                <div id="content">
+                    <div class="pages">
+    
+                        <div id="photos" class="page page-photos">
+                            
+                            <div class="wrapper">
+                            
+                              <div class="carousel">
+                                <img src="/images/respond/photos/7.jpg" alt="" />
+                                <img src="/images/respond/photos/14.jpg" alt="" loading="lazy" />
+                                <img src="/images/respond/photos/19.jpg" alt="" loading="lazy" />
+                                <img src="/images/respond/photos/22.jpg" alt="" loading="lazy" />
+                                <img src="/images/respond/photos/34.jpg" alt="" loading="lazy" />
+                                <img src="/images/respond/photos/38.jpg" alt="" loading="lazy" />
+                                <img src="/images/respond/photos/47.jpg" alt="" loading="lazy" />
+                                <img src="/images/respond/photos/56.jpg" alt="" loading="lazy" />
+                                <img src="/images/respond/photos/78.jpg" alt="" loading="lazy" />
+                                <img src="/images/respond/photos/92.jpg" alt="" loading="lazy" />
+                              </div>
+                              
+                              <a href="#" class="prev" title="Show previous"> </a>
+                              <a href="#" class="next" title="Show next"> </a>
+                              
+                            </div>
+                          
+                        </div>
+                        
+                        <div id="tweets" class="page page-tweets">
+                            <div class="tweets"></div>
+                        </div>
+                        
+                        <div id="rsvp" class="page page-rsvp">
+                            <h2 class="title">RSVP</h2>
+                            <form class="rsvp">
+                                <div id="respond">
+                                    <div>
+                                        <label class="required">Coming to Celebrate?</label>
+                                        <div id="respond_attending">
+                                            <input
+                                                type="radio"
+                                                id="respond_attending_0"
+                                                name="respond[attending]"
+                                                required="required"
+                                                value="1"
+                                            />
+                                            <label for="respond_attending_0" class="required">I&#039;m crashing your wedding. (Yes)</label>
+                                            <input
+                                                type="radio"
+                                                id="respond_attending_1"
+                                                name="respond[attending]"
+                                                required="required"
+                                                value="0"
+                                            />
+                                            <label for="respond_attending_1" class="required">I have to wash my hair that day. Sorry. (No)</label>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <label for="respond_name" class="required">Name</label>
+                                        <input type="text" id="respond_name" name="respond[name]" required="required" />
+                                    </div>
+                                    <div>
+                                        <label for="respond_email" class="required">Email</label>
+                                        <input type="email" id="respond_email" name="respond[email]" required="required" />
+                                    </div>
+                                    <div>
+                                        <label for="respond_phone" class="required">Phone</label>
+                                        <input type="text" id="respond_phone" name="respond[phone]" required="required" />
+                                    </div>
+                                    <div>
+                                        <label for="respond_adults" class="required">How many adults?</label>
+                                        <input type="number" id="respond_adults" name="respond[adults]" required="required" size="1" pattern="^\d+$" title="#" />
+                                    </div>
+                                    <div>
+                                        <label for="respond_children" class="required">How many children?</label>
+                                        <input type="number" id="respond_children" name="respond[children]" required="required" size="1" pattern="^\d+$" title="#" />
+                                    </div>
+                                    <div>
+                                        <label for="respond_song_list">Like to Dance? (So do we)</label>
+                                        <input type="text" id="respond_song_list" name="respond[song_list]" />
+                                    </div>
+                                    <div>
+                                        <label for="respond_note">Anything else you&#039;d like to say?</label>
+                                        <textarea id="respond_note" name="respond[note]"></textarea>
+                                    </div>
+                                </div>
+                                <input class="submit" type="submit" value="Respond" />
+                            </form>
+                        </div>
+                        
+                        <div id="gentlemen" class="page page-people page-gentlemen">
+                            <h2 class="title">Gentlemen</h2>
+                            <div class="body">
+                                <div class="carousel-wrapper">
+                                    <div class="border" />
+                                    <div class="wrapper">
+                                        <div class="carousel">
+                                            <img src="https://graph.facebook.com/100002517346670/picture?width=250&height=250&access_token=845456076317559|2998318fa7121eabda9d084f44ecc695" class="person-matt" title="Matt Shuler" />
+                                            <img src="/images/respond/people/andrew.jpg" class="person-andrew" title="Andrew Tungate" />
+                                            <img src="https://graph.facebook.com/1348198000/picture?width=250&height=250&access_token=845456076317559|2998318fa7121eabda9d084f44ecc695" class="person-jonathan" title="Jonathan Goodwin" />
+                                            <img src="https://graph.facebook.com/211800900/picture?width=250&height=250&access_token=845456076317559|2998318fa7121eabda9d084f44ecc695" class="person-david" title="David Barratt" />
+                                            <img src="https://graph.facebook.com/100001487503542/picture?width=250&height=250&access_token=845456076317559|2998318fa7121eabda9d084f44ecc695" class="person-brandon" title="Brandon Davis" />
+                                            <img src="https://graph.facebook.com/211800621/picture?width=250&height=250&access_token=845456076317559|2998318fa7121eabda9d084f44ecc695" class="person-josh" title="Josh Shearer" />
+                                            <img src="https://graph.facebook.com/735680183/picture?width=250&height=250&access_token=845456076317559|2998318fa7121eabda9d084f44ecc695" class="person-matt_f" title="Matt Furlong" />
+                                        </div>
+                                    </div>
+                                    <div class="pager-wrapper">
+                                        <div class="pager" />
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <div class="people">
+                                        <div class="person person-matt">
+                                            <h3>Matt Shuler</h3>
+                                            <h4>Groomsman</h4>
+                                            <div class="description">
+                                                <p>
+                                                    Well, the way that Will and I first met was on the first day of school in the sixth grade. He was actually the first person to talk to me there, and I remember lunchtime on that day when he introduced me to a girl named Stephanie. When she walked off from the lunch table, I told her that I thought she was pretty and that I thought I liked her.
+                                                </p>
+                                                <p>
+                                                    Little did I know that moment that at the time he had a crush on her as well that had lasted years of knowing her.
+                                                </p>
+                                                <p>
+                                                    Obviously, as time passed on, that crush, on both of our parts, met its end, but as it would turn out, the entire basis of our friendship started on a competition to woo the same girl.
+                                                </p>
+                                                <p>
+                                                    I’m also supposed to tell a story of an adventure that the two of us have shared. There are too many to choose one to necessarily be my favorite, but here is a story of an adventure that has always stuck with me and that I would gladly organize and go through again and again:
+                                                </p>
+                                                <p>
+                                                    During the summer of our freshman year in high school, Will and I packed up our bags and embarked on a fourteen‐day vacation with his nana to beautiful Myrtle Beach. After a long seven hour drive, filled with I‐Spy games and melodic indulgences, we arrived at the condo for a much anticipated view of the South Carolina sand and salt water; and, of course, the speciation of the other beach‐goers.
+                                                </p>
+                                                <p>
+                                                    Soon after our arrival, we went to the closest surf shop to purchase boogie boards, with which we so righteously rode waves on, on almost a daily basis.
+                                                </p>
+                                                <p>
+                                                    On the close of the days that we would ride those gigantic, and sometimes, dangerous swells, fighting for our lives and the respect of our fellow surfers, we felt the urge to kick back and relax. So, accordingly, we decided to dig in and pile up wet sand in order to fashion a couple of make‐shift Lazy Boy recliners. From atop our gritty beach thrones, we comfortably enjoyed the sun descending over the water line... at least, until the tide came in. At which point, we enjoyed a sit and a swim.
+                                                </p>
+                                                <p>
+                                                    On most nights, once the sun went down, we enjoyed the condo’s exterior hot tub, accompanied by my guitar and the occasional new friend and music lover.
+                                                </p>
+                                                <p>
+                                                    Other evenings, we would enjoy manipulating a few games of putt‐putt at the local arcade.
+                                                </p>
+                                                <p>
+                                                    For days, the wave catching, relaxing, and other unmentionable antics bonded a friendship between the two of us that would prove to stand the test of time and the obstacles of distances.
+                                                </p>
+                                                <p>
+                                                    As Will opens a new chapter in his life, becoming a half of a whole with the woman destined to hold the tile of his best friend, he will always be rich with not only my friendship, but many others also. With his rich past, and Jessica’s rich past,the two of them, together, are destined for a rich future as a couple. They have my love and support, prayers and blessings, and best wishes and congratulations.
+                                                </p>
+                                            </div>
+                                            <p class="social">
+                                                <a href="https://www.facebook.com/shulermatt" target="_blank">Facebook</a>
+                                            </p>
+                                        </div>
+                                        <div class="person person-andrew">
+                                            <h3>Andrew Tungate</h3>
+                                            <h4>Groomsman</h4>
+                                            <div class="description">
+                                  <p>Will I don't know exactly what you're looking for so I will give you a few samples. You can choose one, or two, or tell me to write something else.</p>
+                      
+                      <p>"Will and I met when we both joined KYX, I would share more of the details about our first night together but I would get angry group messages from KYX members."</p>
+                      
+                      <p>"Whenever I see Will I think to myself 'Yeah, more of that!'"</p>
+                      
+                      <p>"If Will, myself, or our friend David uttered the phrase 'if God is willing and da Creek don't rise' in the fall of 2011 we would drop everything we were doing. Only because we knew we were about to sneak away to go enjoy a meal at one of the greatest restaurants known to man.. Tibbys. Will took David and I there and we all fell in love.. We enjoyed the food too. I remember after the first time we ate there we were giddy, and we promised not to tell anyone about the treasure we had found. That was a mistake made in the mid 1800's in California that we were not about to repeat. Well I guess in writing this I just told a lot of people... O well. 'If God is willing and da creek don't rise.'"</p>
+                      
+                      <p>"Will and I used to do p90x together.. Man did I hate p90x/Tony, but I love Will."</p>
+                      
+                      <p>"I remember when Will took me to go see me the ring that his fiance would soon be wearing.. I freaked out."</p>
+                      
+                      <p>"When Will would come to Orlando this past year he would stay with me. I know, I am a lucky man.. Many times I would wake up in the middle of the night confused/angry because there was a man in my bed. Then I would remember it was just Will. Once I remembered I was ok with it."</p>
+                      
+                      <p>"Will has a great mustache."</p>
+                      
+                      <p>-Andrew</p>
+                                </div>
+                                <p class="social">
+                                                                <a href="https://www.facebook.com/atungate" target="_blank">Facebook</a>
+                                                                                <span> | </span>
+                                                                                            <a href="https://twitter.com/andrewstungate" target="_blank">Twitter</a>
+                                                                        </p>
+                              </div>
+                                    <div class="person person-jonathan">
+                                <h3>Jonathan Goodwin</h3>
+                                <h4>Groomsman</h4>
+                                <div class="description">
+                                  <p>
+                        The first time I met Will “Branden with an E”, was the Fourth Grade. I was changing from home school and the ever imprisonment trying to learn what long division was while my mother watched Regis and Kathy Lee. Yes, my teacher was more involved with Regis Philbin then she was with my arithmetic skills. My system was in shock from being at a real school for the first time and actually being around people, and we hadn’t even pulled out our math books yet. Eventually doom and gloom happened and we started math and having to solve problems on the board while everyone else seemed to know what they were doing, I was more lost than Branden’s sexuality. The worst part was my teacher didn’t change; my mother took the teaching job for the fourth grade class. I guess either she didn’t remember that math was something she never taught me or there was a math class hidden within Regis and Kathy Lee. I’m still looking for the math episode; I’m starting to think it doesn’t exist. After math was my favorite subject, History. After taking a pop quiz in our history class the first person in my class spoke to me. Branden leaned over and saw that I made a 100 on my quiz and said, 
+                      </p>
+                      <p>
+                        “Your pretty good at this.”
+                      </p>
+                      <p>
+                        “I like history, but I have no clue what I’m doing in math.”
+                      </p>
+                      <p>
+                        And that’s when Branden offered the deal that started our friendship. He asked me, 
+                      </p>
+                      <p>
+                        “If you help me with history, I’ll help you with math.” 
+                      </p>
+                      <p>
+                        That was the beginning of the friendship that has lasted for 14 years. We went through middle school and high school together. You were always there for me and when some of my friends left my side because of the issues I had “sorry other Brandon”, you were always there. You have truly been a great friend to me. Our friendship has spanned from Florida, Hawaii, and Iraq… twice. Even though we haven’t seen each other as much as we both have liked the past six years, I will always remember the night drives, long talks late at night on the beach about what we wanted in our future, The O.C., and the time we had to pull Matt and Keilan out of the ditch and then duct tape the T-Bird front bumper hoping that Mr. Shuler wouldn’t notice. I am happy that you have finally found your one. Can’t wait to see you. And next time you spell my name wrong I will throw a knife at you.
+                      </p>
+                                </div>
+                                <p class="social">
+                                                                <a href="https://www.facebook.com/jon.j.goodwin" target="_blank">Facebook</a>
+                                                                                      </p>
+                              </div>
+                                    <div class="person person-david">
+                                <h3>David Barratt</h3>
+                                <h4>Groomsman</h4>
+                                <div class="description">
+                                  <p>I remember first meeting will when he pledged Kappa Upsilon Chi. I remember him pledging with Josh & Matt Furlong's pledge class, and then dropping, which made me sad. :( But the next semester, he was back! :) In KYX, like most fraternities, all pledges must meet with, and get the signature of all of the current active members. Naturally, a brother could put any requirement or stipulations on getting said signature. I wanted to have some fun with this, so my requirement was pretty simple: "We have to do something together that you've never done before." I remember that a lot of these were quite fun, for instance Andrew had never had a cup of coffee so we went and got one. Josh had never been to Lazy Moon, so we did that. Will seems to have had the hardest time with this and put my "sig" off until the last. He told me he really couldn't think of anything... so I simply asked "Have I ever made you breakfast?" ..... then he says "That's what we'll do, you will make me breakfast." And so I did. :)</p>
+                      
+                      <p>Fast forward a year or so and I remember sitting Matt Furlong down and telling him the whole story of my life so far, my "testimony" if you will. I remember later that Will told me that Matt came back to the apartment and told him that... he had to hear that story. A few weeks later I shared the story with Will.. and since then we've been pretty good friends... something about "I have a lot more respect for you now." haha.</p>
+                                </div>
+                                <p class="social">
+                                                                <a href="https://www.facebook.com/davidbarratt" target="_blank">Facebook</a>
+                                                                                <span> | </span>
+                                                                                            <a href="https://twitter.com/davidwbarratt" target="_blank">Twitter</a>
+                                                                        </p>
+                              </div>
+                                    <div class="person person-brandon">
+                                <h3>Brandon Davis</h3>
+                                <h4>Groomsman</h4>
+                                <div class="description">
+                                  <p>Well the story of how Z and I met isn't anything special. I believe it all happened in the 1st grade when one of my childhood friends (aka Chase) introduced me to the new mexican on the block who had just joined our school, and after that all three of us became great friends. Now as for a funny story..... well i guess the best one i can think of off the top of my head is one from a day i was spending at Z's house when he lived with his grandparents. The day started off normal as ever Z and I where having a great time just fishing and playing godzilla on his super nintendo. when we decided to go try and catch this stupid six to eight inch bass that was taunting us by just floating in a foot of clear water right next to the dock we were fishing off of. We had tried basicly everything to get it to bite our hooks that were hanging right infront of its face when if finally decided to go into deeper water and stop taunting us, so after it left Z started fishing out in the deeper part of the creek while i went inside to get something (dont remember what) when all of a sudden i hear Z calling me saying he got a bite. Well i took off to see what he was catching..... unfortunitly for me i forgot THERES A GLASS DOOR BETWEEN ME AND HIM..... needless to say the door won and i ended up on my back thinking "oh yeah they have a sliding glass door." Z got such a kick out of it after he knew i was ok, but it was still funny that i lost to the door.</p>
+                                </div>
+                                <p class="social">
+                                                                <a href="https://www.facebook.com/100001487503542" target="_blank">Facebook</a>
+                                                                                      </p>
+                              </div>
+                                    <div class="person person-josh">
+                                <h3>Josh Shearer</h3>
+                                <h4>Groomsman</h4>
+                                <div class="description">
+                                  <p>Will and I have been friends for probably 4 years now. I've lost count, which is a good thing because it means that he's become one of my closest friends and that renders time moot. As for how we met, I have KYX to thank for that. We were both Zetas and rushed the same semester. Even though I was significantly older than all but one of the other rushees, I developed strong ties to my fellow Zetas, especially Will. We were both huge fans of videogames, comics, and all things nerdy. Instafriends. I think we bonded most over 2 specific trips, an all-day trip to SuperCon down in Miami, and another week-long escapade that we took together with David, another groomsman, to North Carolina. Good times.</p>
+                                </div>
+                                <p class="social">
+                                                                <a href="https://www.facebook.com/graciaman" target="_blank">Facebook</a>
+                                                                                <span> | </span>
+                                                                                            <a href="https://twitter.com/graciaman" target="_blank">Twitter</a>
+                                                                        </p>
+                              </div>
+                                    <div class="person person-matt_f">
+                                <h3>Matt Furlong</h3>
+                                <h4>Groomsman</h4>
+                                <div class="description">
+                                  <p>Will & Matt. It only makes sense that these two names have the same letter order (consonant-vowel-double consonant), because these two people were meant to be together [Let’s ignore the fact that the name Jess also has the same feature].</p>
+                      
+                      <p>Like peanut butter and jelly, Will and Matt cannot be separated unless torn apart by the 30 pounds per square inch force that only a human temporal muscle can provide. Or an alligator. Alligator’s chew really hard.</p>
+                      
+                      <p>From the time Matt knocked on Will’s door in Pegasus Landing to give Will a bag of candy for visiting his church, Matt knew this was going to be something special. After finding their common ground of Halo and Rock Band over the next 9 months, these two young men took the big step that they knew was unavoidable; they moved in together. And by that I mean they got a three bedroom apartment in Oviedo Grove with another UCF student.</p>
+                      
+                      <p>Over the two years that Matt and Will did life together in the Grove, memories were made, tears were shed and glory was found. Now that Matt and Will have both moved away from Orlando, their connection, although distanced, has not grown weak. They each look forward to a lifetime of exchanging picture messages of familiar, culinary images: a cup from TJ Flats, a bowl of delicious Cereal, and the front of a Sonny’s menu.</p>
+                      
+                      <p>Matt, after having Will as a groomsman last year, is unbelievably excited for what he knows Will is about to experience. He wishes Will and his better half, Jess, the happiest of days for their wedding and the most blessed marriage and life together. Congratulations!</p>
+                                </div>
+                                <p class="social">
+                                                                <a href="https://www.facebook.com/mattfurlong11" target="_blank">Facebook</a>
+                                                                                <span> | </span>
+                                                                                            <a href="https://twitter.com/ucfmatt" target="_blank">Twitter</a>
+                                                                        </p>
+                              </div>
+                                </div>
+                        </div>
+                      </div>
+                          </div>
+                        
+                        <div id="ladies" class="page page-people page-ladies">
+                          <!-- {{ render(controller("WeddingRespondBundle:Default:people", { 'who': 'ladies' })) }} -->
+                        </div>
+                        
+                        <div id="registry" class="page page-registry">
+                          <!-- {{ render(controller("WeddingRespondBundle:Default:registry")) }} -->
+                        </div>
+                        
+                        <div id="travel" class="page page-travel">
+                          <!-- {{ render(controller("WeddingRespondBundle:Default:travel")) }} -->
+                        </div>
+                        
+                      </div>
+                </div>
+              
+              <div class="icon will">
+                  <img src="/images/will.svg" alt="" />
+              </div>
+              <div class="icon jess">
+                <img src="/images/jess.svg" alt="" />
+              </div>
+              
+            </div>
+          </div>
+    </body>
+</html>

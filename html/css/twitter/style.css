@@ -1,0 +1,35 @@
+.tweets {
+  text-align: center;
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 1.7em;
+  line-height: 1.9em;
+  height: 8em;
+}
+
+.tweet {
+  display: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tweet .from {
+  display: block;
+}
+
+.tweet a {
+  text-decoration: none;
+  font-weight: normal;
+  color: #6d6e71;
+}
+
+.tweet a:hover {
+  text-decoration: underline;
+}
+
+@media only screen and (min-width: 600px) {
+  
+  .tweets {
+    font-size: 1.5em;
+  }
+
+}

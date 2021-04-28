@@ -1,8 +1,4 @@
 .env
-/html/bundles/*
-/html/css/*
-/html/js/*
-/html/images/*
 /app/bootstrap*
 /app/cache/*
 /app/logs/*
