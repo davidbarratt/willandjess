@@ -1,7 +1,9 @@
-jQuery.getJSON('tweets.json', function(data) {
+jQuery.getJSON('tweets.json', function(tweets) {
+
+  tweets.reverse();
   
-  jQuery.each(data.tweets, function(index, tweet) {
-    jQuery('.tweets').append(tweet);
+  jQuery.each(tweets, function(index, tweet) {
+    jQuery('.tweets').append(`<p class="tweet"><span class="text">${tweet.text}</span> <span class="from">&mdash;<a href="http://twitter.com/${tweet.user}">@${tweet.user}</a></span></p>`);
   });
   
   var delay = 7000;

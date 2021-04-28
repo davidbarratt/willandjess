@@ -1,19 +1,302 @@
-{
-    "tweets": [
-      "<p class=\"tweet\"><span class=\"text\"><a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> http://t.co/5LsvxOMVb8</span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/KelsyLeah\">@KelsyLeah</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">The beautiful bride and incredible friend of mine! </span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/PaigeJay16\">@PaigeJay16</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">Spied <a href=\"https://twitter.com/JCol99\">@JCol99</a> getting her train arranged at <a href=\"https://twitter.com/search?q=%23thezavalawedding\">#thezavalawedding</a>. Saw her mouth \"I have no idea what's happening.\"</span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/andriamckinney\">@andriamckinney</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">WEDDING! <a href=\"https://twitter.com/search?q=%23thezavalawedding\">#thezavalawedding</a> http://t.co/S25XhBU7V1</span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/KearneyLeah\">@KearneyLeah</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">I'm sitting at the Captain America table... They knew I liked men in uniform;) <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a></span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/itsbrittbeach\">@itsbrittbeach</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\"><a href=\"https://twitter.com/JCol99\">@JCol99</a>  I am ready to fire this audio guy <a href=\"https://twitter.com/search?q=%23thezavalawedding\">#thezavalawedding</a></span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/_justinkeith\">@_justinkeith</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">Oh, yes! It is time for the <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>! http://t.co/qd9XAqLUUY</span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/itsbrittbeach\">@itsbrittbeach</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">T-minus 2 hours till <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>!!!</span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/itsbrittbeach\">@itsbrittbeach</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">Let's do this! <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (@ Norton Museum Of Art) <a href=\"http://4sq.com/11PZ8j2\">4sq.com/11PZ8j2</a></span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/davidwbarratt\">@davidwbarratt</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">Congrats to our brother <a href=\"https://twitter.com/FunnyMSB\">@FunnyMSB</a> for getting married tonight! Good luck to Will and Jessica! <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a></span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/KYXUCF\">@KYXUCF</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">Fooooood :) <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a></span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/FunnyMSB\">@FunnyMSB</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\"><a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (@ Mellow Mushroom Pizza) <a href=\"http://4sq.com/11oyBX1\">4sq.com/11oyBX1</a></span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/davidwbarratt\">@davidwbarratt</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">On the move... It's almost time!!!! <a href=\"https://twitter.com/search?q=%23thezavalawedding\">#thezavalawedding</a> <a href=\"http://instagram.com/p/alzFMzC-ak/\">instagram.com/p/alzFMzC-ak/</a></span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/tlksdnkricks\">@tlksdnkricks</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\">Just ridin' around west palm in a veil. Nbd. <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a></span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/JCol99\">@JCol99</a></span></p>",
-      "<p class=\"tweet\"><span class=\"text\"><a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (@ Starbucks) <a href=\"http://4sq.com/166Hnfw\">4sq.com/166Hnfw</a></span> <span class=\"from\">&mdash;<a href=\"http://twitter.com/davidwbarratt\">@davidwbarratt</a></span></p>"
-    ]
+[
+  {
+    "id": 296041013527597057,
+    "user": "FunnyMSB",
+    "text": "Test Test <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-01-28T23:44:12Z"
+  },
+  {
+    "id": 296048343216435201,
+    "user": "FunnyMSB",
+    "text": "This is just for <a href=\"https://twitter.com/davidwbarratt\">@davidwbarratt</a> <a href=\"http://www.youtube.com/watch?v=8ACTIVntAKg\">youtube.com/watch?v=8ACTIV\u2026</a> <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-01-29T00:13:19Z"
+  },
+  {
+    "id": 296085132903870468,
+    "user": "FunnyMSB",
+    "text": "Yay! Thanks <a href=\"https://twitter.com/davidwbarratt\">@davidwbarratt</a> for willandjess.us :D <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-01-29T02:39:31Z"
+  },
+  {
+    "id": 296362597333217280,
+    "user": "FunnyMSB",
+    "text": "Fantastic Pics from our photographer KT Crabb!  <a href=\"https://www.facebook.com/photo.php?fbid=10152481654560604\">facebook.com/photo.php?fbid\u2026</a> <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-01-29T21:02:04Z"
+  },
+  {
+    "id": 298837019340197889,
+    "user": "JCol99",
+    "text": "check it. <a href=\"http://ktcrabbphoto.com/\">ktcrabbphoto.com</a>\n <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-02-05T16:54:32Z"
+  },
+  {
+    "id": 328629466349854720,
+    "user": "PaigeJay16",
+    "text": "The Bride To Be with her Bridesmaids with Jocelyn in spirit! <a href=\"https://twitter.com/search?q=%23thezavalawedding\">#thezavalawedding</a> <a href=\"https://twitter.com/JCol99\">@JCol99</a> http://t.co/RQpluPmEhM",
+    "created": "2013-04-28T21:59:05Z"
+  },
+  {
+    "id": 329417875775430656,
+    "user": "itsbrittbeach",
+    "text": "just rsvp'd to <a href=\"https://twitter.com/FunnyMSB\">@FunnyMSB</a> and <a href=\"https://twitter.com/JCol99\">@JCol99</a> wedding! I cannot wait for <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-05-01T02:11:56Z"
+  },
+  {
+    "id": 329418963387826179,
+    "user": "JCol99",
+    "text": "<a href=\"https://twitter.com/itsbrittbeach\">@itsbrittbeach</a> <a href=\"https://twitter.com/FunnyMSB\">@FunnyMSB</a> Yayayayay!! Can't wait!! :))) <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-05-01T02:16:15Z"
+  },
+  {
+    "id": 334688170698481665,
+    "user": "JCol99",
+    "text": "Wedding hair trial. <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-05-15T15:14:12Z"
+  },
+  {
+    "id": 335811973688205312,
+    "user": "JCol99",
+    "text": "Groomsmen gifts arrived. Gentlemen, you will be pleased. <a href=\"https://twitter.com/davidwbarratt\">@davidwbarratt</a> <a href=\"https://twitter.com/graciaman\">@graciaman</a> <a href=\"https://twitter.com/ucfmatt\">@ucfmatt</a> <a href=\"https://twitter.com/",
+    "created": "2013-05-18T17:39:48Z"
+  },
+  {
+    "id": 336649613551472640,
+    "user": "JCol99",
+    "text": "Making tables. <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> <a href=\"https://twitter.com/FunnyMSB\">@FunnyMSB</a> <a href=\"http://instagram.com/p/ZjgV9wGxWG/\">instagram.com/p/ZjgV9wGxWG/</a>",
+    "created": "2013-05-21T01:08:17Z"
+  },
+  {
+    "id": 342305598039281664,
+    "user": "JCol99",
+    "text": "Final details with Katie Crabb complete. <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-06-05T15:43:08Z"
+  },
+  {
+    "id": 343495788132982784,
+    "user": "itsbrittbeach",
+    "text": "One week till <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>! Can't wait!",
+    "created": "2013-06-08T22:32:32Z"
+  },
+  {
+    "id": 343503029309431810,
+    "user": "JCol99",
+    "text": "One. Week until <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> <a href=\"https://twitter.com/FunnyMSB\">@FunnyMSB</a>",
+    "created": "2013-06-08T23:01:18Z"
+  },
+  {
+    "id": 343540055136165888,
+    "user": "KelsyLeah",
+    "text": "Less then a week and my hubby and I will be on vacation <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-06-09T01:28:26Z"
+  },
+  {
+    "id": 344172951077265410,
+    "user": "JCol99",
+    "text": "<a href=\"https://twitter.com/search?q=%23mancrusheveryday\">#mancrusheveryday</a> <a href=\"https://twitter.com/FunnyMSB\">@FunnyMSB</a> <a href=\"https://twitter.com/search?q=%235days\">#5days</a> <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#Th",
+    "created": "2013-06-10T19:23:20Z"
+  },
+  {
+    "id": 344445282718732288,
+    "user": "Ekgoodwin",
+    "text": "Leaving in two days for the Zavala wedding.<a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-06-11T13:25:29Z"
+  },
+  {
+    "id": 344482016965849088,
+    "user": "JCol99",
+    "text": "Wedding crafts all day <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> http://t.co/9lPW0cdl44",
+    "created": "2013-06-11T15:51:27Z"
+  },
+  {
+    "id": 344779996054831104,
+    "user": "KelsyLeah",
+    "text": "2 classes stand between me and vacation \n<a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-06-12T11:35:31Z"
+  },
+  {
+    "id": 345021028034043904,
+    "user": "PaigeJay16",
+    "text": "Preparing for <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> !! Getting excited! <a href=\"https://twitter.com/JCol99\">@JCol99</a> <a href=\"http://instagram.com/p/ae_EI3CFmf/\">instagram.com/p/ae_EI3CFmf/</a>",
+    "created": "2013-06-13T03:33:17Z"
+  },
+  {
+    "id": 345489785860788224,
+    "user": "keilanmusic",
+    "text": "West Palm bound. <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> <a href=\"http://instagram.com/p/aiUPeOsDmy/\">instagram.com/p/aiUPeOsDmy/</a>",
+    "created": "2013-06-14T10:35:58Z"
+  },
+  {
+    "id": 345532617082417152,
+    "user": "itsbrittbeach",
+    "text": "West Palm Beach bound! <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>! http://t.co/0qWGAjU5m5",
+    "created": "2013-06-14T13:26:10Z"
+  },
+  {
+    "id": 345626916339978240,
+    "user": "davidwbarratt",
+    "text": "on the road again. <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> <a href=\"http://sdrv.ms/11FEQFO\">sdrv.ms/11FEQFO</a>",
+    "created": "2013-06-14T19:40:52Z"
+  },
+  {
+    "id": 345632091863650305,
+    "user": "davidwbarratt",
+    "text": "Rehearsal Dinner!  <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (@ Norton Museum Of Art w/ <a href=\"https://twitter.com/Aquanox\">@Aquanox</a>) <a href=\"http://4sq.com/11lJ6KE\">4sq.com/11lJ6KE</a>",
+    "created": "2013-06-14T20:01:26Z"
+  },
+  {
+    "id": 345664569341014016,
+    "user": "KelsyLeah",
+    "text": "So glad to see all my people \n<a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-06-14T22:10:30Z"
+  },
+  {
+    "id": 345901444618145792,
+    "user": "KelsyLeah",
+    "text": "Enjoying my own little piece of paradise before <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> http://t.co/sCcy7eeudn",
+    "created": "2013-06-15T13:51:45Z"
+  },
+  {
+    "id": 345907352937058304,
+    "user": "itsbrittbeach",
+    "text": "Excited for <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> today!!!",
+    "created": "2013-06-15T14:15:14Z"
+  },
+  {
+    "id": 345918386552840193,
+    "user": "davidwbarratt",
+    "text": "<a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (at <a href=\"https://twitter.com/Kohls\">@Kohls</a>) <a href=\"http://4sq.com/12xbbno\">4sq.com/12xbbno</a>",
+    "created": "2013-06-15T14:59:04Z"
+  },
+  {
+    "id": 345923978285699072,
+    "user": "davidwbarratt",
+    "text": "<a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (@ Men's Wearhouse &amp; Tux - <a href=\"https://twitter.com/MWTuxedo\">@MWTuxedo</a>) <a href=\"http://4sq.com/10l401i\">4sq.com/10l401i</a>",
+    "created": "2013-06-15T15:21:18Z"
+  },
+  {
+    "id": 345928378701979648,
+    "user": "davidwbarratt",
+    "text": "<a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (@ Makeb's Bagel &amp; Deli) <a href=\"http://4sq.com/147CD8g\">4sq.com/147CD8g</a>",
+    "created": "2013-06-15T15:38:47Z"
+  },
+  {
+    "id": 345934108519698433,
+    "user": "AlyssaBoddie",
+    "text": "Cheers to the bride, <a href=\"https://twitter.com/JCol99\">@JCol99</a> !!!! The best way to start off this amazing wedding day! <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> <a href=\"http://instagram.com/p/aleCHyrEqX/\">in",
+    "created": "2013-06-15T16:01:33Z"
+  },
+  {
+    "id": 345941246554034176,
+    "user": "JCol99",
+    "text": "Wedding day!! <a href=\"https://twitter.com/FunnyMSB\">@FunnyMSB</a>  <a href=\"https://twitter.com/search?q=%23thezavalawedding\">#thezavalawedding</a> <a href=\"http://instagram.com/p/alhsPLmxfj/\">instagram.com/p/alhsPLmxfj/</a>",
+    "created": "2013-06-15T16:29:55Z"
+  },
+  {
+    "id": 345948786742394881,
+    "user": "davidwbarratt",
+    "text": "<a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (at <a href=\"https://twitter.com/BedBathBeyond\">@BedBathBeyond</a>) <a href=\"http://4sq.com/17bNns0\">4sq.com/17bNns0</a>",
+    "created": "2013-06-15T16:59:52Z"
+  },
+  {
+    "id": 345949933037297664,
+    "user": "Ramanda",
+    "text": "Loving all the <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> pics :) <a href=\"https://twitter.com/JCol99\">@JCol99</a> And <a href=\"https://twitter.com/FunnyMSB\">@FunnyMSB</a> you two are the best :))",
+    "created": "2013-06-15T17:04:26Z"
+  },
+  {
+    "id": 345952524009893888,
+    "user": "davidwbarratt",
+    "text": "<a href=\"https://twitter.com/BedBathBeyond\">@BedBathBeyond</a> thanks! getting some last minute gifts for <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>.",
+    "created": "2013-06-15T17:14:43Z"
+  },
+  {
+    "id": 345962371254190080,
+    "user": "davidwbarratt",
+    "text": "<a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (@ Starbucks) <a href=\"http://4sq.com/166Hnfw\">4sq.com/166Hnfw</a>",
+    "created": "2013-06-15T17:53:51Z"
+  },
+  {
+    "id": 345978589000376320,
+    "user": "JCol99",
+    "text": "Just ridin' around west palm in a veil. Nbd. <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-06-15T18:58:18Z"
+  },
+  {
+    "id": 345980152745975809,
+    "user": "tlksdnkricks",
+    "text": "On the move... It's almost time!!!! <a href=\"https://twitter.com/search?q=%23thezavalawedding\">#thezavalawedding</a> <a href=\"http://instagram.com/p/alzFMzC-ak/\">instagram.com/p/alzFMzC-ak/</a>",
+    "created": "2013-06-15T19:04:31Z"
+  },
+  {
+    "id": 345982421163995136,
+    "user": "davidwbarratt",
+    "text": "<a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (@ Mellow Mushroom Pizza) <a href=\"http://4sq.com/11oyBX1\">4sq.com/11oyBX1</a>",
+    "created": "2013-06-15T19:13:31Z"
+  },
+  {
+    "id": 345982990024855553,
+    "user": "FunnyMSB",
+    "text": "Fooooood :) <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-06-15T19:15:47Z"
+  },
+  {
+    "id": 345993620878422016,
+    "user": "KYXUCF",
+    "text": "Congrats to our brother <a href=\"https://twitter.com/FunnyMSB\">@FunnyMSB</a> for getting married tonight! Good luck to Will and Jessica! <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-06-15T19:58:02Z"
+  },
+  {
+    "id": 345997383777284097,
+    "user": "davidwbarratt",
+    "text": "Let's do this! <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> (@ Norton Museum Of Art) <a href=\"http://4sq.com/11PZ8j2\">4sq.com/11PZ8j2</a>",
+    "created": "2013-06-15T20:12:59Z"
+  },
+  {
+    "id": 345998105298235392,
+    "user": "itsbrittbeach",
+    "text": "T-minus 2 hours till <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>!!!",
+    "created": "2013-06-15T20:15:51Z"
+  },
+  {
+    "id": 346026754919522304,
+    "user": "itsbrittbeach",
+    "text": "Oh, yes! It is time for the <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>! http://t.co/qd9XAqLUUY",
+    "created": "2013-06-15T22:09:41Z"
+  },
+  {
+    "id": 346031475843534848,
+    "user": "_justinkeith",
+    "text": "<a href=\"https://twitter.com/JCol99\">@JCol99</a>  I am ready to fire this audio guy <a href=\"https://twitter.com/search?q=%23thezavalawedding\">#thezavalawedding</a>",
+    "created": "2013-06-15T22:28:27Z"
+  },
+  {
+    "id": 346053710767591424,
+    "user": "itsbrittbeach",
+    "text": "I'm sitting at the Captain America table... They knew I liked men in uniform;) <a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a>",
+    "created": "2013-06-15T23:56:48Z"
+  },
+  {
+    "id": 346071537583001601,
+    "user": "KearneyLeah",
+    "text": "WEDDING! <a href=\"https://twitter.com/search?q=%23thezavalawedding\">#thezavalawedding</a> http://t.co/S25XhBU7V1",
+    "created": "2013-06-16T01:07:39Z"
+  },
+  {
+    "id": 346085266877988864,
+    "user": "andriamckinney",
+    "text": "Spied <a href=\"https://twitter.com/JCol99\">@JCol99</a> getting her train arranged at <a href=\"https://twitter.com/search?q=%23thezavalawedding\">#thezavalawedding</a>. Saw her mouth \"I have no idea what's happening.\"",
+    "created": "2013-06-16T02:02:12Z"
+  },
+  {
+    "id": 346320592947011584,
+    "user": "PaigeJay16",
+    "text": "The beautiful bride and incredible friend of mine! ",
+    "created": "2013-06-16T17:37:18Z"
+  },
+  {
+    "id": 346434532658016256,
+    "user": "KelsyLeah",
+    "text": "<a href=\"https://twitter.com/search?q=%23TheZavalaWedding\">#TheZavalaWedding</a> http://t.co/5LsvxOMVb8",
+    "created": "2013-06-17T01:10:03Z"
   }
+]
