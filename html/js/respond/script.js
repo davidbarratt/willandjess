@@ -1,4 +1,21 @@
-jQuery("#respond_song_list").tokenInput('songs');
+jQuery("#respond_song_list").tokenInput('https://itunes.apple.com/search?media=music&entity=song&limit=10', {
+  crossDomain: true,
+  queryParam: 'term',
+  onResult: function( data ) {
+    if ( !data.results ) {
+      return [];
+    }
+
+    if ( !Array.isArray( data.results ) ) {
+      return [];
+    }
+
+    return data.results.map((item) => ({
+      id: item.trackId,
+      name: `${item.trackName} - ${item.artistName}`,
+    }));
+  }
+});
   
 jQuery('#photos .carousel').carouFredSel({
   width: '100%',
