@@ -1,7 +1,3 @@
-jQuery(document).ready(function() {
+jQuery('body').addClass('js');
 
-  jQuery('body').addClass('js');
-  
-  jQuery('header').onePageNav();
-  
-});
+jQuery('header').onePageNav();
