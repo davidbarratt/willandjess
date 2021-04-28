@@ -89,14 +89,9 @@ form.rsvp .submit:hover {
 }
 
 #photos .carousel img {
-  display: none;
   float: left;
   width: 632px;
   height: auto;
-}
-
-.js #photos .carousel img {
-  display: block;
 }
 
 #photos .prev,

@@ -1,3 +1,1 @@
-jQuery('body').addClass('js');
-
-jQuery('header').onePageNav();
+jQuery('#navigation ul').onePageNav();
