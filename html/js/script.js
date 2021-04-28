@@ -1,1 +1,1 @@
-jQuery('#navigation ul').onePageNav();
+jQuery('header').onePageNav();
